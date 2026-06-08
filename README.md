@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student exploring code and technology
+CSE student exploring code and technology 💻
 
 
 ## 🌐 Socials:
