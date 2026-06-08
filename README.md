@@ -12,7 +12,3 @@ CSE student exploring code and technology
 ![](https://streak-stats.demolab.com/?user=Ayisha-Farhana&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayisha-Farhana&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Ayisha-Farhana&icon=0&color=10)](https://visitcount.itsvg.in)
-
-
