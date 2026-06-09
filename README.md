@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 CSE student exploring code and technology 💻
 
 
